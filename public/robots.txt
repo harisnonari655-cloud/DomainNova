@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://domainnova.vercel.app/sitemap.xml

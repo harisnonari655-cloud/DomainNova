@@ -1,0 +1,6 @@
+{
+  "name": "DomainNova",
+  "description": "Real free domain and subdomain discovery platform. Compare verified providers, check domain syntax and live availability, view eligibility rules, and follow DNS deployment guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
